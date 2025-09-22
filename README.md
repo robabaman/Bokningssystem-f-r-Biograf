@@ -1,2 +1,2 @@
-# Bokningssystem-f-r-Biograf
-Inlämningsuppgift 2
+Inlamningsuppgift2
+Jag har har gjort ett Biograf Projekt i UML format.
